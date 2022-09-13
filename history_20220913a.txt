@@ -1,0 +1,8 @@
+    1  init
+    2  man uname
+    3  uname -a
+    4  ps aux
+    5  ps aux| grep firefox
+    6  firefox &
+    7  ~$
+    8  history > history_20220913a.txt
