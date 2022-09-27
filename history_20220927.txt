@@ -1,0 +1,259 @@
+    1  init
+    2  pwd
+    3  hoami
+    4  whoami
+    5  clear
+    6  echo
+    7  firefox &
+    8  clear
+    9  pwd
+   10  cd Downloads
+   11  pwd
+   12  cd .
+   13  pwd
+   14  cd ..
+   15  pwd
+   16  ls-l
+   17  ls -l
+   18  cd Videos
+   19  pwd
+   20  cddocuments
+   21  cd Documents
+   22  cd ..
+   23  pwd
+   24  cd Documents
+   25  pwd
+   26  mkdir testdocuments
+   27  pwd
+   28  cd testdocuments
+   29  pwd
+   30  ls
+   31  cd ..
+   32  pwd
+   33  cd testdocuments
+   34  pwd
+   35  rmdir testdocument
+   36  rmdir testdocuments
+   37  pwd
+   38  cd ..
+   39  pwd
+   40  rmdir testdocuments
+   41  pwd
+   42  ls -l
+   43  ls
+   44  pwd
+   45  mkdir TEST
+   46  cd TEST
+   47  pwd
+   48  rm -r TEST
+   49  cd ..
+   50  pwd
+   51  cd .
+   52  pwd
+   53  cd Documents
+   54  ls -l
+   55  ls
+   56  pwd
+   57  ls
+   58  ls -a
+   59  cd ..
+   60  pwd
+   61  ls -l
+   62  cd Documents
+   63  pwd
+   64  ls -l
+   65  pwd
+   66  rm -r TEST
+   67  ls -l
+   68  man uname
+   69  ps aux
+   70  history
+   71  sudo apt-get install virtualbox-guest-dkms
+   72  cd ...
+   73  cd ..
+   74  pws
+   75  pwd
+   76  cd
+   77  pwd
+   78  init out
+   79  init shutdown
+   80  shutdown
+   81  shutdown -c
+   82  firefox
+   83  cd
+   84  list -al
+   85  ls list -al
+   86  ls -al
+   87  cd
+   88  pwd
+   89  cd Downloads/
+   90  cd
+   91  shutdown -c
+   92  shutdown
+   93  shutdown -c
+   94  shutdown 
+   95  init shutdown
+   96  init -s
+   97  init -o
+   98  o
+   99  init o
+  100  ls
+  101  whereis ls
+  102  pwd
+  103  ls -lt /bin/ls
+  104  ls/bin/ls
+  105  ls -l
+  106  ls -lt /bin/ls
+  107  clear
+  108  ls -lt /bin/ls
+  109  cd /bin
+  110  ls
+  111  echo $0
+  112  sh
+  113  echo $0
+  114  bin& ls
+  115  clear
+  116  pwd
+  117  whereis ls
+  118  pwd
+  119  ls -l /bin/ls
+  120  pwd
+  121  ls
+  122  clear
+  123  ls -l
+  124  clear
+  125  ls -l ls
+  126  cat ls
+  127  cdcd
+  128  clear
+  129  cd
+  130  clear
+  131  nano git-upload
+  132  chmod 744 git-upload
+  133  git-upload
+  134  ls -a
+  135  git clone https://github.com/vasiks-kharms/READ.me
+  136  ls -lt
+  137  cd git-upload.sh
+  138  cd RTR105
+  139  pwd
+  140  ls-lt
+  141  ls -lt
+  142  clear
+  143  pwd
+  144  nano first.c
+  145  catfirst.c
+  146  cat first.c
+  147  gcc first.c
+  148  gcc help
+  149  man gcc
+  150  ls -lt
+  151  cat a.out
+  152  a.out
+  153  cat first.c
+  154  ls -lt
+  155  pwd
+  156  clear
+  157  cd 20220927
+  158  mkdir 27092022
+  159  ls -lt
+  160  mv 27092022
+  161  pwd
+  162  mv 27092922
+  163  cd 27092922
+  164  mkdir 27092022.sh
+  165  cd 27092922.sh
+  166  pwd
+  167  clear
+  168  ./a.out
+  169  mkdir CLASS_06$
+  170  cd mkdir CLASS_06$
+  171  cd CLASS_06$
+  172  ls -lt
+  173  a.out
+  174  .
+  175  ..
+  176  clear
+  177  cd ..
+  178  tree
+  179  sudo snap install tree
+  180  tree
+  181  pwd
+  182  cd CLASS_06$
+  183  tree
+  184  cd ..
+  185  tree
+  186  first.c
+  187  a.out
+  188  nano first.c
+  189  gcc first.c
+  190  nano first.c
+  191  echo $?
+  192  a.out
+  193  echo $?
+  194  ./a.out
+  195  echo $?
+  196  gcc first.c
+  197  nano first.c
+  198  gcc first.c
+  199  lls -lt
+  200  ./a.out
+  201  cat first.c
+  202  gcc first.c
+  203  ls -lt
+  204  nano first.c 
+  205  ./a.out
+  206  ls -lt
+  207  scho $?
+  208  echo$?
+  209  echo $?
+  210  nano first.c 
+  211  gcc first.c
+  212  ./a.out
+  213  echo $?
+  214  clear
+  215  first.c
+  216  a.out
+  217  cleaar
+  218  clear
+  219  gcc first.c
+  220  ls -lt
+  221  cd 27092022.sh
+  222  a.out
+  223  ./a.ot
+  224  first.c
+  225  clear
+  226  ls -lt
+  227  gcc first.c -o first.out
+  228  cd ..
+  229  pwd
+  230  gcc first.c -o first.out
+  231  gcc --help
+  232  ls -lt
+  233  mv first.out first_V1.out
+  234  ls -lt
+  235  tree
+  236  ls -lta
+  237  nano git.ignore
+  238  ls -lt
+  239  ls -lta
+  240  gcc first.c -S -o first.out
+  241  gcc first.c -S -save temps-tems -o first.out
+  242  gcc first.c -S -save-temps -o first.out
+  243  ls -lt
+  244  nano first.i
+  245  gcc first.c -save-temps -o first.out
+  246  ls -lt
+  247  cat first.s
+  248  ls -lt
+  249  cat first.c
+  250  hexdump -c first.c
+  251  hexdump -C first.c
+  252  cd ..
+  253  pwd
+  254  cd RTR105
+  255  pwd
+  256  ./git.upload
+  257  ./git.upload 06
+  258  ./git-upload
+  259  history > history_20220927.txt
