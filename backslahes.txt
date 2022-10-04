@@ -1,0 +1,8 @@
+\n - an escape sequence that denotes a newline character(parcel kursoru jauna rinda)
+\t -used to shift the cursor to a couple of spaces to the right in the same line(parel kursoru uz tuvako tabulacijas poziciju)
+\v -vertical tab(horizontali taja pasa pozicija, vertikali uz augsu, uz leju)
+\b -backspace(parcel kursoru vienu poziciju atpakal)
+\a -an ascii character, used to display a sound(atskano skanju)
+\r -carriage return. Used to add a carriage return to text(parcel kursoru uz rindas sakumu)
+
+
