@@ -1,0 +1,197 @@
+    1  init
+    2  pwd
+    3  hoami
+    4  whoami
+    5  clear
+    6  echo
+    7  firefox &
+    8  clear
+    9  pwd
+   10  cd Downloads
+   11  pwd
+   12  cd .
+   13  pwd
+   14  cd ..
+   15  pwd
+   16  ls-l
+   17  ls -l
+   18  cd Videos
+   19  pwd
+   20  cddocuments
+   21  cd Documents
+   22  cd ..
+   23  pwd
+   24  cd Documents
+   25  pwd
+   26  mkdir testdocuments
+   27  pwd
+   28  cd testdocuments
+   29  pwd
+   30  ls
+   31  cd ..
+   32  pwd
+   33  cd testdocuments
+   34  pwd
+   35  rmdir testdocument
+   36  rmdir testdocuments
+   37  pwd
+   38  cd ..
+   39  pwd
+   40  rmdir testdocuments
+   41  pwd
+   42  ls -l
+   43  ls
+   44  pwd
+   45  mkdir TEST
+   46  cd TEST
+   47  pwd
+   48  rm -r TEST
+   49  cd ..
+   50  pwd
+   51  cd .
+   52  pwd
+   53  cd Documents
+   54  ls -l
+   55  ls
+   56  pwd
+   57  ls
+   58  ls -a
+   59  cd ..
+   60  pwd
+   61  ls -l
+   62  cd Documents
+   63  pwd
+   64  ls -l
+   65  pwd
+   66  rm -r TEST
+   67  ls -l
+   68  man uname
+   69  ps aux
+   70  history
+   71  sudo apt-get install virtualbox-guest-dkms
+   72  cd ...
+   73  cd ..
+   74  pws
+   75  pwd
+   76  cd
+   77  pwd
+   78  init out
+   79  init shutdown
+   80  shutdown
+   81  shutdown -c
+   82  firefox
+   83  cd
+   84  list -al
+   85  ls list -al
+   86  ls -al
+   87  cd
+   88  pwd
+   89  cd Downloads/
+   90  cd
+   91  shutdown -c
+   92  shutdown
+   93  shutdown -c
+   94  shutdown 
+   95  init shutdown
+   96  init -s
+   97  init -o
+   98  o
+   99  init o
+  100  ls
+  101  whereis ls
+  102  pwd
+  103  ls -lt /bin/ls
+  104  ls/bin/ls
+  105  ls -l
+  106  ls -lt /bin/ls
+  107  clear
+  108  ls -lt /bin/ls
+  109  cd /bin
+  110  ls
+  111  echo $0
+  112  sh
+  113  echo $0
+  114  bin& ls
+  115  clear
+  116  pwd
+  117  whereis ls
+  118  pwd
+  119  ls -l /bin/ls
+  120  pwd
+  121  ls
+  122  clear
+  123  ls -l
+  124  clear
+  125  ls -l ls
+  126  cat ls
+  127  cdcd
+  128  clear
+  129  cd
+  130  clear
+  131  nano git-upload
+  132  chmod 744 git-upload
+  133  git-upload
+  134  ls -a
+  135  git-upload
+  136  git -upload
+  137  clear
+  138  git-upload RT105
+  139  chmod 744 git-upload
+  140  git clone
+  141  git clone [200~https://github.com/vasiks-kharms/RTR105~
+  142  git clone https://github.com/vasiks-kharms/RTR105~
+  143  git clone https://github.com/vasiks-kharms/RTR105
+  144  pwd
+  145  ls -lt
+  146* 
+  147  cd RTR105
+  148  pwd
+  149  mkdir Class_07
+  150  ls -lt
+  151  cd Class_07
+  152  nano git-upload
+  153  gcc printf_C printf_C printf_C printf_C 
+  154  gcc printf_C
+  155  gcc printf_c -o printf_C.out
+  156  gcc printf_c.in -o printf_C.out
+  157  pwd
+  158  nano printf_C
+  159  gcc printf.C
+  160  gcc print.C
+  161  clear
+  162  gcc print.C -o print.out
+  163  ls -lt
+  164  pwd
+  165  gcc print.C
+  166  gcc printf.C
+  167  clear
+  168  pwd
+  169  ls -lt
+  170  nano printf.C
+  171  nano printf.C -o
+  172  gcc printf.C -o
+  173  gcc printf.C -o printf.out
+  174  nano printf.C
+  175  sudo apt update gcc
+  176  sudo apt upgrade gcc
+  177  gcc printf.C -o printf.out
+  178  sudo apt update
+  179  gcc printf.C -o printf.out
+  180  apt install g++
+  181  sudo apt install g++
+  182  gcc printf.C -o printf.out
+  183  ./ printf.C
+  184  ./printf.C
+  185  ./printf.out
+  186  pwd
+  187  git upload
+  188  git-upload
+  189  cd RTR105
+  190  pwd
+  191  ..
+  192  cd ..
+  193  pwd
+  194  ./git-upload
+  195  history
+  196  pwd
+  197  history  > history04102022.txt
