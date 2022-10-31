@@ -1,0 +1,20 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+// int ir vesels skaitlis
+int vecums = 40;
+
+//float un double ir  decimaal-skaitlis
+double atzime = 9.2;
+
+//char var vienu burtu (character)
+char vertejums = 'A';
+
+//string of characters, fraaze
+char fraaze[] = "kartupeli nav redzejusi gaismu";
+
+
+return 0;
+}
