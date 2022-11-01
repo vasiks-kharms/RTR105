@@ -1,0 +1,259 @@
+    1  sudo apt update
+    2  ls
+    3  ./VBoxLinuxAdditions.run 
+    4  ./autorun.sh 
+    5  ls
+    6  ./VBoxLinuxAdditions.run 
+    7  ./autorun.sh 
+    8  cd
+    9  sudo apt install gcc
+   10  ./autorun.sh 
+   11  cd
+   12  shutdown -r now
+   13  sudo apt-get update
+   14  sudo apt-get upgrade
+   15  sudo apt update
+   16  sudo apt upgrade
+   17  clear
+   18  nano msp430.c
+   19  LS
+   20  ls
+   21  git clone
+   22  sudo apt install git
+   23  git clone https://github.com/vasiks-kharms/RTR105
+   24  ls
+   25  mv msp430.c /RTR105
+   26  mv msp430.c RTR105
+   27  cd RTR105/
+   28  ls -lt
+   29  ./git-upload vasiks-kharms
+   30  gcc msp430.c 
+   31  cd
+   32  sudo apt gcc -U
+   33  sudo apt gcc -update
+   34  sudo apt gcc 
+   35  sudo apt install gcc -U
+   36  sudo apt install gcc 
+   37  sudo apt upgrade
+   38  clear
+   39  la
+   40  sudo apt install python3-pip
+   41  spt list
+   42  apt list
+   43  sudo apt --upgradable
+   44  sudo apt list --upgradable
+   45  sudo apt list --upgradable -a
+   46  sudo apt install notepad-plus-plus
+   47  sudo apt install wget
+   48  sudo apt install curd
+   49  nano Ciparu_Elektronika.txt
+   50  sudo apt install snap
+   51  sudo apt install brew
+   52  clear
+   53  notepad-plus-plus
+   54  git upload
+   55  clear
+   56  ./ git-upload
+   57  git-upload
+   58  git clone https://github.com/vasiks-kharms/RTR105
+   59  ls -lt
+   60  cd RTR105
+   61  ls -lt
+   62  mkdir Class_8
+   63  ls -lt
+   64  cd Class_8
+   65  clear
+   66  .. cd
+   67  cd ..
+   68  cd Class_8
+   69  nano char_data_type_tests.c
+   70  ./a. out
+   71  gcc char_data_type_tests.c
+   72  gcc char_data_type_tests.c 
+   73  clear
+   74  nano char_data_type_tests.c
+   75  gcc char_data_type_tests.c 
+   76  nano char_data_type_tests.c 
+   77  gcc char_data_type_tests.c 
+   78  nano nano char_data_type_tests.c 
+   79  gcc char_data_type_tests.c 
+   80  nano char_data_type_tests.c 
+   81  gcc char_data_type_tests.c 
+   82  nano char_data_type_tests.c 
+   83  clear
+   84  ls -lt
+   85  git-upload
+   86  clear
+   87  ./ git-upload
+   88  git-upload 
+   89  git upload vasiks-kharms
+   90  git upload https://github.com/vasiks-kharms/RTR105
+   91  git clone https://github.com/vasiks-kharms/RTR105
+   92  ls -lt
+   93  .. cd
+   94  cd ..
+   95  ls -lt
+   96  nano char_data_type_tests.c 
+   97  gcc char_data_type_tests.c 
+   98  nano char_data_type_tests.c 
+   99  gcc char_data_type_tests.c 
+  100  git upload
+  101  git push origin 
+  102  ls -lt
+  103  ./ git-upload
+  104  ./git-upload vasiks-kharms
+  105  clea
+  106  rclear
+  107  clear
+  108  git -upload vasiks-kharms
+  109  git-upload vasiks-kharms
+  110  git-push
+  111  git push origin 
+  112  history.txt
+  113  history ls
+  114  ls -lt
+  115  clear
+  116  ls -lt
+  117  echo
+  118  echo whoami
+  119  echo
+  120  pwd
+  121  clear
+  122  ls history
+  123  run firefox
+  124  firefox
+  125  git clone https://github.com/vasiks-kharms/RTR105
+  126  ls -lt
+  127  cd RTR105
+  128  ls -lt
+  129  cd Class_8
+  130  ls -lt
+  131  cd ..
+  132  mkdir Class_10
+  133  cdClass_10
+  134  cd Class_10
+  135  nano operations_tests.c
+  136  gcc operations_tests.c
+  137  nano operations_tests.c
+  138  gcc operations_tests.c
+  139  ./.out
+  140  ./a.out
+  141  nano operations_tests.c
+  142  gcc operations_tests.c
+  143  nano operations_tests.c
+  144  gcc operations_tests.c
+  145  ./a.out
+  146  nano operations_tests.c
+  147  nano division_tests.c
+  148  gcc division_tests.c
+  149  nano division_tests.c
+  150  gcc division_tests.c
+  151  nano division_tests.c
+  152  gcc division_tests.c
+  153  ./a.out
+  154  nano division_tests.c
+  155  gcc division_tests.c
+  156  ./a.out
+  157  nano division_tests.c
+  158  gcc division_tests.c
+  159  ./a.out
+  160  nano division_tests.c
+  161  gcc division_tests.c
+  162  ./a.out
+  163  nano division_tests.c
+  164  gcc division_tests.c
+  165  ./a.out
+  166  nano division2_tests.c
+  167  gcc division2_tests.c
+  168  ./a.out
+  169  gcc division2_tests.c
+  170  nano division2_tests.c
+  171  gcc division2_tests.c
+  172  ./a.out
+  173  nano division2_tests.c
+  174  gcc division2_tests.c
+  175  nano division2_tests.c
+  176  gcc division2_tests.c
+  177  ./a.out
+  178  nano division2_tests.c
+  179  gcc division2_tests.c
+  180  ./a.out
+  181  nano mult_tests.c
+  182  gcc mult_tests.c
+  183  nano mult_tests.c
+  184  gcc mult_tests.c
+  185  nano mult_tests.c
+  186  gcc mult_tests.c
+  187  ./a.out
+  188  nano mult_tests.c
+  189  gcc AND_tests.c
+  190  ./a.out
+  191  nano sum_tests.c
+  192  gcc sum_tests.c
+  193  nano sum_tests.c
+  194  gcc sum_tests.c
+  195  nano sum_tests.c
+  196  gcc sum_tests.c
+  197  ./a.out
+  198  pwd
+  199  ls -lt
+  200  nano logiskais_NE_tests.c
+  201  ls -lt
+  202  history > history_18.10.2022
+  203  ls -lt
+  204  git push
+  205  firefox &
+  206  ./ git-upload https://github.com/vasiks-kharms/RTR105
+  207  cd ..
+  208  ./ git-upload https://github.com/vasiks-kharms/RTR105
+  209  git push
+  210  nano nobiide_tests.c
+  211  nano division_tests.c
+  212  nano operations_tests.c
+  213  nano sum_tests.c
+  214  ssh -X -C p221REC033@213.175.92.15 -p 30022~
+  215  ssh -X -C p221REC033@213.175.92.15 -p 30022
+  216  ssh -X -C p221REC033@192.168.0.3
+  217  exit
+  218  200~ssh -X -C p221REC033@192.168.0.3
+  219  ssh -X -C p221REC033@192.168.0.3
+  220  ssh -X -C p221REC033@213.175.92.15 -p 30022
+  221  ssh -X -C p211REC033@213.175.92.15 -p 30022
+  222  ssh -X -C p221REC033@213.175.92.15 -p 30022
+  223  ssh -X -C p211REC033@213.175.92.15 -p 30022
+  224  clear
+  225  ssh -X -C p221REC033@213.175.92.15 -p 30022
+  226  cd RTR105
+  227  ls -lt
+  228  cd testi_majaas2
+  229  ls-lt
+  230  ls -lt
+  231  nano numbers.c
+  232  gcc numbers.c
+  233  nano numbers.c 
+  234  gcc numbers.c
+  235  ./a.out 
+  236  nano constants.c
+  237  gcc constants.c
+  238  nano constants.c
+  239  gcc constants.c
+  240  nano constants.c
+  241  gcc constants.c
+  242  nano constants.c
+  243  gcc constants.c
+  244  ./a.out 
+  245  nano constants.c
+  246  gcc constants.c
+  247  ./a.out 
+  248  nano cnano constants.c 
+  249  nano user_input.c
+  250  gcc user_input.c 
+  251  nano user_input.c
+  252  gcc user_input.c 
+  253  ./a.out 
+  254  nano user_input.c
+  255  gcc user_input.c 
+  256  ./a.out 
+  257  nano user_input.c 
+  258  nano calculator.c
+  259  history > history01112022.txt
