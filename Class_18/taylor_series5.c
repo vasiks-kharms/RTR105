@@ -11,7 +11,7 @@ printf("y=sin(%.2f)=%.2f\n",x,y);
 
 
 
-a = pow(-1,k)*pow(x,2*k+1)/(1.);//a0 = pow(-1,0)*pow(x,2*0+1)/(1.);
+a = pow(-1,k)*pow(x,2*k+1)/(1.L);//a0 = pow(-1,0)*pow(x,2*0+1)/(1.);
 S = a; //S0 = a0
 printf("%.2f\t%8.2f\t%8.2f\n",x,a,S);
 
