@@ -1,0 +1,14 @@
+#include<stdio.h>
+
+int main()
+{
+
+int num1, num2, rezultats;
+
+printf("Ievadi divus skaitlus:");
+scanf("%d %d",&num1,&num2);
+product=num1*num2;
+rezultats("So divu skaitlu reizinajums ir: %d",product);
+
+return 0;
+}
