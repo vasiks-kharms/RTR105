@@ -28,12 +28,12 @@ void main( )
 double x, y, my;
 long double aE499 = 1.L, aE500 = 1.L;
 int k=500;
-printf("Aprekins funkcijai e^(-x)\n");
+printf("e^(-x) calculation\n");
 printf("Ievadi x vertibu: ");
 scanf(" %lf", &x);
 
 y = exp(-x);
-printf("Standarta funkcija exp(-%f) = %f\n",x,y);
+printf("standarta funkcija exp(-%f) = %f\n",x,y);
 
 my = f(x, k);
 printf("Mana funkcija f(%f) = %f\n",x ,my);
@@ -42,15 +42,18 @@ printf("Mana funkcija f(%f) = %f\n",x ,my);
 //darbibas attelojums ASCII
 printf("\n");
 printf("\n");
-printf("                                                        \n");
-printf("                %d                                      \n",k);
-printf("                ____                                    \n");
-printf("               \\               (-x)^n                  \n");
-printf("e^(-%.2f) =>    _____                                   \n",x);
-printf("               /___                                     \n");
-printf("               n=0  n!                                  \n");
-printf("                                                        \n");
-printf("                                                        \n");
+printf("							\n");
+printf("		%d					\n",k);
+printf("		____					\n");
+printf("	       \\        	(-x)^n			\n");
+printf("e^(-%.2f) =>    _____             			\n",x);
+printf("	       /___					\n");
+printf("	       n=0  n!		                	\n");
+printf("							\n");
+printf("							\n");
 
 }
+
+
+
 
