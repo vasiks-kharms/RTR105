@@ -1,6 +1,13 @@
+//SORTING
+
+//info avoti
+//https://www.sanfoundry.com/c-program-sort-array-ascending-order/
+
+
 #include <stdio.h>
 
-int main(void) {
+int main(void) 
+{
 char letter1, letter2, letter3;
 char order;
 
@@ -14,9 +21,9 @@ printf("Ievadi burtu a, lai sakartotu visu alfabetiska seciba;\n Ievadi burtu p,
 scanf(" %c", &order);
 
 
-if (order == 'a') 
+if (order == 'a')
 {
-if (letter1 > letter2) 
+if (letter1 > letter2)
 {
 char temp = letter1;
 
@@ -24,14 +31,14 @@ letter1 = letter2;
 letter2 = temp;
 
 }
-if (letter2 > letter3) 
+if (letter2 > letter3)
 {
 char temp = letter2;
 letter2 = letter3;
 letter3 = temp;
 
 }
-if (letter1 > letter2) 
+if (letter1 > letter2)
 {
 char temp = letter1;
 letter1 = letter2;
@@ -39,9 +46,9 @@ letter2 = temp;
 
 }
 }
-else if (order == 'p') 
+else if (order == 'p')
 {
-if (letter1 < letter2) 
+if (letter1 < letter2)
 {
 char temp = letter1;
 letter1 = letter2;
@@ -54,7 +61,7 @@ char temp = letter2;
 letter2 = letter3;
 letter3 = temp;
 }
-if (letter1 < letter2) 
+if (letter1 < letter2)
 {
 char temp = letter1;
 letter1 = letter2;
@@ -64,7 +71,7 @@ letter2 = temp;
 }
 
 
-printf("Sakartota seciba ir: %c %c %c\n", letter1, letter2, letter3);
+printf("Burti (Jusu ieprieks izveletajaa secibaa) ir: %c %c %c\n", letter1, letter2, letter3);
 
 return 0;
 }
