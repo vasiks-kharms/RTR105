@@ -8,7 +8,10 @@
 #include <stdio.h>
 #include <stdlib.h> //for general purpose functions
 #include <string.h>// for handling strings
+
+//izpildiju darbu un tikai tad parlasiju uzdevumu nosacijumus, ka nedrikst izmantot datu tipu robezu konstantes :/
 #include <limits.h>//satur konstantes dazadiem datu tipiem - CHAR_MAX, INT_MAX un LLONG_MAX
+
 
 
 int main(void)
