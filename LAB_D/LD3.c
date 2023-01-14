@@ -1,6 +1,7 @@
 //DERIVATIVE
 //NB! kompilejot -lm
 
+
 //info avoti:
 //https://en.wikipedia.org/wiki/Numerical_differentiation
 //https://mathworld.wolfram.com/FiniteDifference.html
