@@ -1,3 +1,7 @@
+//integer
+
+//https://en.wikipedia.org/wiki/Numerical_integration
+
 #include <stdio.h>
 #include <math.h>
 
