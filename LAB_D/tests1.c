@@ -5,57 +5,78 @@
 #include <stdio.h>
 #include <math.h>
 
-//function to be integrated
-double f(double x) {
-    return exp(-x);
+
+double f(double x)
+{
+ return exp(-x);
 }
 
-double rectangle_rule(double a, double b, double h) {
-    double area = 0;
-    //iterate over the interval [a,b] with step h
-    for (double x = a; x < b; x += h) {
-        //calculate the area of the rectangle at each point
-        area += f(x) * h;
-    }
-    return area;
+//rectangle -taisnsturis
+double rectangle_rule(double a, double b, double h)
+{
+double area = 0;
+//pa solim pievieno a vertiba h lidz ta ir lielaka vai vienada par b
+for (double x = a; x < b; x += h)
+{
+//katraa punkta izrekjina taisnstura laukumu
+area += f(x) * h;
+}
+return area;
 }
 
-double trapezoidal_rule(double a, double b, double h) {
-    double area = 0;
-    //iterate over the interval [a,b] with step h
-    for (double x = a; x < b; x += h) {
-        //calculate the area of the trapezoid at each point
-        area += (f(x) + f(x + h)) * h / 2;
-    }
-    return area;
+
+//trapezoid - trapeces likums
+double trapezoidal_rule(double a, double b, double h)
+{
+double area = 0;
+for
+(double x = a; x < b; x += h)
+
+{
+//izrekjina trapeces laukumu
+area += (f(x) + f(x + h)) * h / 2;
 }
 
-double simpson_rule(double a, double b, double h) {
-    double area = 0;
-    //iterate over the interval [a,b] with step h
-    for (double x = a; x < b; x += h) {
-        //calculate the area of the simpson's rule at each point
-        area += (f(x) + 4 * f(x + h / 2) + f(x + h)) * h / 6;
-    }
-    return area;
+return area;
 }
 
-int main() {
-    double a, b, precision;
-    //prompt user for input
-    printf("Enter the value of a: ");
-    scanf("%lf", &a);
-    printf("Enter the value of b: ");
-    scanf("%lf", &b);
-    printf("Enter the precision: ");
-    scanf("%lf", &precision);
 
-    //calculate step size
-    double h = (b - a) * precision;
-    //display results
-    printf("Area using rectangle rule: %lf\n", rectangle_rule(a, b, h));
-    printf("Area using trapezoidal rule: %lf\n", trapezoidal_rule(a, b, h));
-    printf("Area using Simpson's rule: %lf\n", simpson_rule(a, b, h));
+// simpson's
+double simpson_rule(double a, double b, double h)
+{
+double area = 0;
+for
+(double x = a; x < b; x += h)
 
-    return 0;
+//izrekinat laukumu ar simpsona likumu
+ area += (f(x) + 4 * f(x + h / 2) + f(x + h)) * h / 6;
+}
+ return area;
+}
+
+int main()
+
+{
+double a, b, precision;
+
+
+//prasam lietotajam
+printf("Ievadi a vertibu: ");
+scanf("%lf", &a);
+printf("Ievadi b vertibu:");
+scanf("%lf", &b);
+printf("Ievadi precizitati: ");
+scanf("%lf", &precision);
+
+//izrekjina solju lielumu
+double h = (b - a) * precision;
+
+//rezultzz~
+printf("Laukuma (starp f(x) un x ass) vērtība (aprēķins izmantojot taisnstūru metodi) ir: %lf\n", rectangle_rule(a, b, h));
+printf("Laukuma (starp f(x) un x ass) vērtība (aprēķins izmantojot trapeču metodi) ir : %lf\n", trapezoidal_rule(a, b, h));
+printf("Laukuma (starp f(x) un x ass) vērtība (aprēķins izmantojot Simpson's metodi) ir: %lf\n", simpson_rule(a, b, h));
+
+
+return 0;
+
 }
