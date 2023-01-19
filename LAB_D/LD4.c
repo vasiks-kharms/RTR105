@@ -5,6 +5,7 @@
 //https://en.wikipedia.org/wiki/Simpson%27s_rule
 //https://www.youtube.com/watch?v=aY6Y66cc4rE
 //https://en.wikipedia.org/wiki/Numerical_integration
+//https://estudijas.rtu.lv/file.php/252149/RTR105_2019_2020_L20_20200118_14_51.pdf
 
 #include <stdio.h>
 #include <math.h>
