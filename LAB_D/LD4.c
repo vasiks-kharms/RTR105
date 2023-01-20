@@ -1,11 +1,15 @@
 //INTEGRAL
 // NB! kompilejot -lm
+//bilde no wolfram alpha - https://github.com/vasiks-kharms/RTR105/commit/df8fe5f1f3d5eac9bd6338082cde8ff879c9341c
+
 
 //info avoti:
 //https://en.wikipedia.org/wiki/Simpson%27s_rule
 //https://www.youtube.com/watch?v=aY6Y66cc4rE
 //https://en.wikipedia.org/wiki/Numerical_integration
 //https://estudijas.rtu.lv/file.php/252149/RTR105_2019_2020_L20_20200118_14_51.pdf
+//http://hirophysics.com/gnuplot/gnuplot13.html
+//
 
 #include <stdio.h>
 #include <math.h>
