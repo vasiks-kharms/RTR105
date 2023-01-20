@@ -1,6 +1,7 @@
 //DERIVATIVE
+
 //NB! kompilejot -lm
-//GNUPLOT code - 
+//GNUPLOT code - https://github.com/vasiks-kharms/RTR105/blob/main/LAB_D/LD3.gp
 
 //info avoti:
 //https://en.wikipedia.org/wiki/Numerical_differentiation
