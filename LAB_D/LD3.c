@@ -1,5 +1,6 @@
 //DERIVATIVE
 //NB! kompilejot -lm
+//GNUPLOT code - 
 
 //info avoti:
 //https://en.wikipedia.org/wiki/Numerical_differentiation
@@ -7,7 +8,8 @@
 //https://www.codesansar.com/numerical-methods/forward-difference-table-generation-using-c-programming.htm
 //https://estudijas.rtu.lv/file.php/252149/RTR105_2019_2020_L19_20200118_14_50.pdf
 //https://stackoverflow.com/questions/3521209/making-c-code-plot-a-graph-automatically/6934363#6934363
-
+//https://www.youtube.com/watch?v=R9Kx81iz-ic
+//http://hirophysics.com/gnuplot/gnuplot13.html
 
 #include <stdio.h>
 #include <math.h>

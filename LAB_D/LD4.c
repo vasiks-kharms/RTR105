@@ -1,7 +1,7 @@
 //INTEGRAL
 // NB! kompilejot -lm
 //bilde no wolfram alpha - https://github.com/vasiks-kharms/RTR105/commit/df8fe5f1f3d5eac9bd6338082cde8ff879c9341c
-
+//GNUPLOT kods - https://github.com/vasiks-kharms/RTR105/blob/main/LAB_D/LD4.gp
 
 //info avoti:
 //https://en.wikipedia.org/wiki/Simpson%27s_rule
