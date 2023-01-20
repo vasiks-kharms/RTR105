@@ -1,4 +1,7 @@
 //statistics
+//gnuplot pic - https://github.com/vasiks-kharms/RTR105/blob/main/LAB_D/Screenshot%20from%202023-01-20%2022-48-53.png
+//gnuplot code - https://github.com/vasiks-kharms/RTR105/blob/main/LAB_D/LD5.gp
+
 
 //info avoti:
 //https://estudijas.rtu.lv/file.php/252149/RTR105_2019_2020_L22_20200118_14_51.pdf
